@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
-
 import { fetchMissions } from './api/fetchMissions';
-
 import MissionForm from './components/MissionForm';
 import MissionsList from './components/MissionsList';
 
